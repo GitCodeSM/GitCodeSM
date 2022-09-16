@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @GitCodeSM
-- 👀 I’m interested in Python and Django/Flask based back-end and front-End web development and app development.
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python based projects
+- 👀 Interested in working on Python, Django, Flask, SQL based back-end and front-end web application development.
+- 🌱 Improving on Data Analysis projects and various others.
+     Check my repositories for my growth.
+- 💞️ I wish to collaborate and contribute on Python based repositories.
 - 📫 How to reach me
